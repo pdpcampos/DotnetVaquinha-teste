@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dotnet-vaquinha-tests-master",
+    "\\dotnet-vaquinha-tests-master\\tests",
+    "\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Integration.Tests",
+    "\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Tests.Common",
+    "\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Unit.Tests",
+    "\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Unit.Tests\\DomainTests",
+    "\\dotnet-vaquinha-tests-master\\tests\\Vaquinha.Unit.Tests\\Extensions"
+  ],
+  "PreviewInSolutionExplorer": false
+}
